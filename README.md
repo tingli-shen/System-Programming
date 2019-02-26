@@ -1,8 +1,5 @@
 # System-Programming
-Programming Assignment 1 System Programming
-Due: November 20, 2014 1 Chung Yung
-Programming Assignment #1
-Assignment Description
+
 Write an SIC assembler that reads an SIC assembly program, translates SIC
 statements into their machine code equivalents, and generates an object file.
 Goals
